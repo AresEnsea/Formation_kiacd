@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "L293D") (type "KiCad") (uri "${KIPRJMOD}/librairie/L293D") (options "") (descr ""))
+	(lib (name "NUCLEO-L476RG") (type "KiCad") (uri "${KIPRJMOD}/librairie/NUCLEO-L476RG") (options "") (descr ""))
+)
